@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebsDaBaws
-- 👀 I’m a we developer interested in frontend-development and UX/UI
+- 👀 I’m a web developer interested in frontend-development and UX/UI
 - 🌱 I’m currently open to work
 - 📫 How to reach me: 
 
